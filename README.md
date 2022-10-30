@@ -146,25 +146,31 @@ The first five rows of data are displayed
   
   ## **Summary of the Analysis**
   After reviewing all the results, we conclude:
+  
   - The Math Score average is 64.67573326141189, this include all grades and school types
+  
   - The Minimun Reading Score is 10.5, this include all grades and school types
-  - Some of the Stadistics for Nine Grade are : 
-    - Total count of 4132 reading and math score were in this date 
+  
+  - Some of the Statistics for Nine Grade are : 
+    - A Total of 4132 counts in reading and math score were in this data 
+    
     - The minimun score for reading is 17.900000 as well as the math score is 5.300000
+    
   - The minimun score for reading was for the student showing below (all grades, school and typer were included)
   
   ![image](https://user-images.githubusercontent.com/112348240/198854188-e4884062-bd0b-4ae0-b0ac-dff784c6def4.png)
   
   - Public school has a higher Budget than Charter ones:
   
-    -**Charter	872625.656236**
+    -**Charter School Budget is 872625.656236**
   
-    -**Public	911195.558251**
+    -**Public	School Budget is 911195.558251**
+    
    - The School with the Highest Student Count is :
       - Montgomery High School with 2038 students
       
 Deliverable 6 Requirements
 
-  In a few sentences, an understanding of the performed analysis is demonstrated.
+  - In a few sentences, an understanding of the performed analysis is demonstrated.
 
   
